@@ -35,12 +35,15 @@ https://github.com/Zaggy1024/unity-lc-project-patcher.git#v73-fixes
 
 ## Патч игры
 В панели инструментов должна появится новая секция с названием `Tools.`
+
 Наведитесь на нее. Найдите в ней `Unity Project Patcher > Open Window`.
 
 Нажмите `Install BepInEx` в нижней части окна и дождитесь завершения загрузки.
 
 Наконец, откройте Steam, найдите в нём Lethal Company. 
+
 Наведитесь на `Управление > Просмотреть локальные файлы`.
+
 Обычно это что-то вроде `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`.
 <img width="994" height="664" alt="image" src="https://github.com/user-attachments/assets/df3d2ecd-c225-4346-9405-8c95d4292f02" />
 
@@ -49,6 +52,7 @@ https://github.com/Zaggy1024/unity-lc-project-patcher.git#v73-fixes
 Вернитесь к недавно открывшемуся окну и нажмите `Start Patching`.
 
 После этого редактор перезапустится самостоятельно около 7–10 раз, но время от времени будет показывать всплывающие окна.
+
 Вам нужно просто нажимать "Ok" или "Yes", но обязательно прочитайте и убедитесь, что вы понимаете, что делаете.
 
-Поздравляем, теперь у вас есть пропатченный проект Lethal Company!
+Мои поздравления, теперь у вас есть пропатченный проект Lethal Company!

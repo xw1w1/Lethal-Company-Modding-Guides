@@ -8,6 +8,7 @@
 Для начала вам необходимо установить все необходимые компоненты.
 
 `Git`: https://git-scm.com/install/ (для загрузки собственных Package в Unity и др.)
+
 `.NET 9`: https://dotnet.microsoft.com/en-us/download/dotnet/9.0
 
 ### Unity
@@ -21,10 +22,13 @@
 В открывшемся проекте наведитесь на верхнюю панель инструментов и найдите там `Window > Package Manager`.
 
 В верхнем левом углу открывшегося окошка должен быть `+`. 
+
 Нажмите на него и выберите опцию `Add package from git URL...`.
 
 Вставьте в открывшуюся строку ввода следующие ссылки:
+
 https://github.com/Zaggy1024/unity-project-patcher.git#lc-v73-fixes
+
 https://github.com/Zaggy1024/unity-lc-project-patcher.git#v73-fixes
 
 **⚠️ После загрузки пакетов может понадобится перезагрузка редактора, если некоторые UI элементы не видны. ⚠️** 

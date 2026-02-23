@@ -60,3 +60,4 @@ https://github.com/Zaggy1024/unity-lc-project-patcher.git#v73-fixes
 Вам нужно просто нажимать "Ok" или "Yes", но обязательно прочитайте и убедитесь, что вы понимаете, что делаете.
 
 Мои поздравления, теперь у вас есть пропатченный проект Lethal Company!
+<img width="1238" height="766" alt="image" src="https://github.com/user-attachments/assets/4aac2aea-e716-44f1-9089-864be2dccf11" />

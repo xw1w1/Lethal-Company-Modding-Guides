@@ -40,6 +40,7 @@ https://github.com/Zaggy1024/unity-lc-project-patcher.git#v73-fixes
 Наведитесь на нее. Найдите в ней `Unity Project Patcher > Open Window`.
 
 Нажмите `Install BepInEx` в нижней части окна и дождитесь завершения загрузки.
+<img width="530" height="592" alt="image" src="https://github.com/user-attachments/assets/28d81f4d-0f45-4541-be46-55e7e2a98c69" />
 
 Наконец, откройте Steam, найдите в нём Lethal Company. 
 
@@ -49,8 +50,9 @@ https://github.com/Zaggy1024/unity-lc-project-patcher.git#v73-fixes
 <img width="994" height="664" alt="image" src="https://github.com/user-attachments/assets/df3d2ecd-c225-4346-9405-8c95d4292f02" />
 
 Опуститесь в панель `Project`. Найдите в папке `Assets` файл `UPPatcherUserSettings` и вставьте путь к игре в нужное поле.
+<img width="759" height="478" alt="image" src="https://github.com/user-attachments/assets/502261f0-d16a-4e08-a0a9-0e05c3876086" />
 
-Вернитесь к недавно открывшемуся окну и нажмите `Start Patching`.
+Вернитесь к недавно открывшемуся окну и нажмите `Run Patcher`.
 
 После этого редактор перезапустится самостоятельно около 7–10 раз, но время от времени будет показывать всплывающие окна.
 

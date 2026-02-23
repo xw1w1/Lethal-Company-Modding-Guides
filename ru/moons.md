@@ -24,6 +24,7 @@
 В верхнем левом углу открывшегося окошка должен быть `+`. 
 
 Нажмите на него и выберите опцию `Add package from git URL...`.
+<img width="805" height="585" alt="image" src="https://github.com/user-attachments/assets/a8db1e52-ceb5-43a5-9936-88bdb1b9ee6f" />
 
 Вставьте в открывшуюся строку ввода следующие ссылки:
 

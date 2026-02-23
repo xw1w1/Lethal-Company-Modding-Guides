@@ -10,11 +10,11 @@
 `Git`: https://git-scm.com/install/ (для загрузки собственных Package в Unity и др.)
 `.NET 9`: https://dotnet.microsoft.com/en-us/download/dotnet/9.0
 
-**Unity**
+### Unity
 После установки требуемых компонентов установите `UnityHub`: https://unity.com/download
 И `UnityEditor` версии `2022.3.62f2`. https://unity.com/ru/releases/editor/archive
 
-**Создайте проект**
+### Создание проекта
 При создании убедитесь, что используете версию `2022.3.62f2` и template `High Definition 3D`.
 <img width="1035" height="617" alt="image" src="https://github.com/user-attachments/assets/5bbf8a5e-14bb-4f14-8cf8-7ca76b2acf1e" />
 

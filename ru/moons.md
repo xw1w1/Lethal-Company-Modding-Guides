@@ -13,6 +13,7 @@
 
 ### Unity
 После установки требуемых компонентов установите `UnityHub`: https://unity.com/download
+
 И `UnityEditor` версии `2022.3.62f2`. https://unity.com/ru/releases/editor/archive
 
 ### Создание проекта

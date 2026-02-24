@@ -18,6 +18,7 @@
 
 ### Создание проекта
 При создании убедитесь, что используете версию `2022.3.62f2` и template `High Definition 3D`.
+
 <img width="1035" height="617" alt="image" src="https://github.com/user-attachments/assets/5bbf8a5e-14bb-4f14-8cf8-7ca76b2acf1e" />
 
 В открывшемся проекте наведитесь на верхнюю панель инструментов и найдите там `Window > Package Manager`.
@@ -25,6 +26,7 @@
 В верхнем левом углу открывшегося окошка должен быть `+`. 
 
 Нажмите на него и выберите опцию `Add package from git URL...`.
+
 <img width="805" height="585" alt="image" src="https://github.com/user-attachments/assets/a8db1e52-ceb5-43a5-9936-88bdb1b9ee6f" />
 
 Вставьте в открывшуюся строку ввода следующие ссылки:
@@ -41,6 +43,7 @@ https://github.com/Zaggy1024/unity-lc-project-patcher.git#v73-fixes
 Наведитесь на нее. Найдите в ней `Unity Project Patcher > Open Window`.
 
 Нажмите `Install BepInEx` в нижней части окна и дождитесь завершения загрузки.
+
 <img width="530" height="592" alt="image" src="https://github.com/user-attachments/assets/28d81f4d-0f45-4541-be46-55e7e2a98c69" />
 
 Наконец, откройте Steam, найдите в нём Lethal Company. 
@@ -48,9 +51,11 @@ https://github.com/Zaggy1024/unity-lc-project-patcher.git#v73-fixes
 Наведитесь на `Управление > Просмотреть локальные файлы`.
 
 Обычно это что-то вроде `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`.
+
 <img width="994" height="664" alt="image" src="https://github.com/user-attachments/assets/df3d2ecd-c225-4346-9405-8c95d4292f02" />
 
 Опуститесь в панель `Project`. Найдите в папке `Assets` файл `UPPatcherUserSettings` и вставьте путь к игре в нужное поле.
+
 <img width="759" height="478" alt="image" src="https://github.com/user-attachments/assets/502261f0-d16a-4e08-a0a9-0e05c3876086" />
 
 Вернитесь к недавно открывшемуся окну и нажмите `Run Patcher`.
@@ -60,4 +65,5 @@ https://github.com/Zaggy1024/unity-lc-project-patcher.git#v73-fixes
 Вам нужно просто нажимать "Ok" или "Yes", но обязательно прочитайте и убедитесь, что вы понимаете, что делаете.
 
 Мои поздравления, теперь у вас есть пропатченный проект Lethal Company!
+
 <img width="1238" height="766" alt="image" src="https://github.com/user-attachments/assets/4aac2aea-e716-44f1-9089-864be2dccf11" />

@@ -4,6 +4,7 @@
 Поскольку для планеты используется `LethalLevelLoader`, для начала мы сделаем сам мод LLL.
 
 В папке `Assets/LethalCompany/Mods` создайте свою папку рядом с `plugins`.
+
 <img width="415" height="232" alt="image" src="https://github.com/user-attachments/assets/65bc403b-3011-4c71-8e08-b89a6f2070ea" />
 
 Внутри этой папки создайте `ExtendedMod`. (`ПКМ > LethalLevelLoader > ExtendedMod`)

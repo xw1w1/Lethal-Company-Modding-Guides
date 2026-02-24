@@ -37,3 +37,14 @@ LethalCompany/
 --\BlankReferences [До этого мы дойдем позже в разделе оптимизаций]
 --\Scenes [Папка для ассетов сцен, но это только по желанию]
 ```
+
+## ExtendedLevel
+
+В той же папке что и `ExtendedMod` создайте `ExtendedLevel` (`ПКМ > LethalLevelLoader > Extended Content > ExtendedLevel`)
+
+### General Settings
+Поле `Selectable Level` отвечает за скрипт выбираемого уровня, с этим мы разберемся позже.
+
+Поле `Route Price` отвечает за цену, которую будет стоить вылет на планету (как на `Rend`, `Dine` и т.д).
+<img width="848" height="871" alt="image" src="https://github.com/user-attachments/assets/1f48880f-abc3-41b1-9818-f5aed314d8a8" />
+

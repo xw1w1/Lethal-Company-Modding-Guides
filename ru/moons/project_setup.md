@@ -28,7 +28,7 @@
 
 ## Возможные проблемы
 Если вы столкнулись с проблемой следующего характера в консоли:
-<img width="1083" height="195" alt="image" src="https://github.com/user-attachments/assets/d9860fab-c991-4b2d-b004-79680975b2de" />
+<img width="930" height="90" alt="image" src="https://github.com/user-attachments/assets/f6e699d7-6d8d-4eb6-b218-2d508708cb8f" />
 
 Перейдите в папку `.../Mods/plugins` и выключите галочку "`Validate References`" для  `LethalLevelLoader.dll`.
 <img width="1260" height="677" alt="image" src="https://github.com/user-attachments/assets/f4fd553e-4bc7-4bbf-b3e3-776ee5fc3f55" />

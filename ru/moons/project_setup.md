@@ -33,3 +33,5 @@
 Перейдите в папку `.../Mods/plugins` и выключите галочку "`Validate References`" для  `LethalLevelLoader.dll`.
 <img width="1260" height="677" alt="image" src="https://github.com/user-attachments/assets/f4fd553e-4bc7-4bbf-b3e3-776ee5fc3f55" />
 
+Как только импорт завершится, в контекстном меню должен появиться `LethalLevelLoader`. Если этого не случилось, попробуйте перезагрузить `Unity`, или повторите этот этап заново, предварительно очистив папку `plugins` в своем проекте.
+<img width="773" height="159" alt="image" src="https://github.com/user-attachments/assets/7624eb10-f563-4614-8775-cd40a8c30832" />

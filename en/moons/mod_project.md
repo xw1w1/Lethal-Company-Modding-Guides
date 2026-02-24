@@ -47,4 +47,4 @@ LethalCompany/
 
 This is how I do it, but you can organize the project in a way that's convenient for you personally. I'm just showing how I have my resources distributed.
 
-Starting from here, you can proceed to the next step: https://github.com/xw1w1/Lethal-Company-Modding-Guides/new/main/en/moons/moon_setup.md
+Starting from here, you can proceed to the next step: https://github.com/xw1w1/Lethal-Company-Modding-Guides/blob/main/ru/moons/moon_setup.md

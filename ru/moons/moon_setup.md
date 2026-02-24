@@ -13,7 +13,7 @@
 `Is Route Locked` отвечает за то, будет ли открыта ваша планета для посещения (?)*.
 <img width="848" height="871" alt="image" src="https://github.com/user-attachments/assets/1f48880f-abc3-41b1-9818-f5aed314d8a8" />
 
-## SelectableLevel
+# SelectableLevel
 `SelectableLevel` это, в общем то, сам выбираемый уровень.
 
 Вы можете найти примеры в папке `Assets/LethalCompany/Game/ScriptableObjects/SelectableLevel/`.

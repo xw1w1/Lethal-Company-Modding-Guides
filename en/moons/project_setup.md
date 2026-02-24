@@ -36,7 +36,7 @@ If you encounter an issue of the following nature in the console:
 
 <img width="930" height="90" alt="image" src="https://github.com/user-attachments/assets/f6e699d7-6d8d-4eb6-b218-2d508708cb8f" />
 
-Go to the `.../Mods/plugins` folder and disable the "`Validate References`" checkbox for `LethalLevelLoader.dll`.
+Go to the `.../Mods/plugins` folder and uncheck the "`Validate References`" for `LethalLevelLoader.dll`.
 
 <img width="1260" height="677" alt="image" src="https://github.com/user-attachments/assets/f4fd553e-4bc7-4bbf-b3e3-776ee5fc3f55" />
 

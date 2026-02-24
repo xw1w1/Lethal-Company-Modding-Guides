@@ -19,12 +19,17 @@
 После запуска вернитесь в `r2modman`, нажмите на вкладку `Settings` снизу и выберите второй пункт "`Browse profile folder`"
 <img width="1233" height="773" alt="image" src="https://github.com/user-attachments/assets/6a8ab03c-5f2b-42d5-bb65-a88692a43910" />
 
-После открытия скопируйте всё, что находится внутри папки `BepInEx/plugins`. (у меня вышло 12 папок)
-<img width="434" height="475" alt="image" src="https://github.com/user-attachments/assets/0b93a309-f81e-4c33-901d-8f38e253d5c5" />
+После открытия скопируйте всё, что находится внутри папки `BepInEx/plugins`. (у меня вышло 8 папок)
+<img width="599" height="543" alt="image" src="https://github.com/user-attachments/assets/1915187d-bc40-465f-9754-29e78a81ba82" />
 
 Вернитесь в `Unity`. В `Projects` наведитесь на пустую область в папке `Assets` и нажмите ПКМ > `Show in explorer`
 
 У вас откроется папка со всеми файлами вашего проекта. Переместитесь в `Assets/LethalCompany/Mods/plugins` и вставьте туда все скопированные вами папки. Древо проекта должно выглядеть примерно так:
-<img width="447" height="323" alt="image" src="https://github.com/user-attachments/assets/c8cf2c34-c699-42ff-bccc-57479230deb4" />
 
+## Возможные проблемы
+Если вы столкнулись с проблемой следующего характера в консоли:
+<img width="1083" height="195" alt="image" src="https://github.com/user-attachments/assets/d9860fab-c991-4b2d-b004-79680975b2de" />
+
+Перейдите в папку `.../Mods/plugins` и выключите галочку "`Validate References`" для  `LethalLevelLoader.dll`.
+<img width="1260" height="677" alt="image" src="https://github.com/user-attachments/assets/f4fd553e-4bc7-4bbf-b3e3-776ee5fc3f55" />
 

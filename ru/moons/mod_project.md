@@ -1,6 +1,6 @@
 # Создание мода
 
-**Если вы еще не прошли этап с [настройкой проекта](https://github.com/xw1w1/Lethal-Company-Modding-Guides/blob/main/ru/moons/project_setup.md), рекомендую сделать это прямо сейчас.
+**Если вы еще не прошли этап с [настройкой проекта](https://github.com/xw1w1/Lethal-Company-Modding-Guides/blob/main/ru/moons/project_setup.md), рекомендую сделать это прямо сейчас.**
 
 Для краткости я буду использовать сокращение LLL, когда буду говорить про Lethal Level Loader.
 
